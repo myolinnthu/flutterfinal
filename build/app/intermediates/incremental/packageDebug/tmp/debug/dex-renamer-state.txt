@@ -1,0 +1,4 @@
+#Sat May 02 14:19:15 MMT 2020
+base.0=E\:\\Flutter_Example_Project\\moolax\\final\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
